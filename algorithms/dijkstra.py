@@ -1,3 +1,0 @@
-
-# dijkstra's shortest path!
-
